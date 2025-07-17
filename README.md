@@ -1,6 +1,6 @@
 # Personal Task Manager - Refactored Version
 
-## 📌 Mục tiêu refactor
+##  Mục tiêu refactor
 
 Nhằm cải thiện chất lượng mã nguồn và đảm bảo phần mềm dễ mở rộng, nhóm đã tiến hành refactor đoạn mã ban đầu bằng cách áp dụng các nguyên tắc thiết kế phần mềm:
 
@@ -10,7 +10,7 @@ Nhằm cải thiện chất lượng mã nguồn và đảm bảo phần mềm d
 
 ---
 
-## ⚒️ Các bước thực hiện
+##  Các bước thực hiện
 
 1. **Phân tích code gốc** (`PersonalTaskManagerViolations.java`)
    - Gồm các đoạn mã lặp lại, xử lý logic chưa tối ưu, chứa các thành phần dư thừa.
@@ -25,7 +25,7 @@ Nhằm cải thiện chất lượng mã nguồn và đảm bảo phần mềm d
 
 ---
 
-## 📁 Cấu trúc file
+##  Cấu trúc file
 
 | File                                | Mô tả                                                                 |
 |-------------------------------------|------------------------------------------------------------------------|
@@ -34,7 +34,7 @@ Nhằm cải thiện chất lượng mã nguồn và đảm bảo phần mềm d
 
 ---
 
-## 🌱 Nhánh Git
+##  Nhánh Git
 
 - **main**: chứa mã nguồn ban đầu, chưa được refactor.
 - **feature/refactor-code**: chứa mã đã được tối ưu, dùng để đánh giá và so sánh.
